@@ -4,5 +4,7 @@ Third step: The final object is having an objective function and some constrain,
 
 
 Some articles that talk about Walmart's strategy when entering new markets:
+
 -https://www.linkedin.com/pulse/what-do-walmart-need-ensure-its-future-success-expanding-truong-dinh
+
 -https://fastercapital.com/topics/walmarts-global-expansion-strategy.html
