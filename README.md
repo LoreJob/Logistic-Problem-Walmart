@@ -8,3 +8,8 @@ Some articles that talk about Walmart's strategy when entering new markets:
 -https://www.linkedin.com/pulse/what-do-walmart-need-ensure-its-future-success-expanding-truong-dinh
 
 -https://fastercapital.com/topics/walmarts-global-expansion-strategy.html
+
+
+EBITDA/store = 3.6 billion
+
+Cost of building in Lombardia = 1000€ / 2000€ mq^2
