@@ -1,2 +1,0 @@
-
-C:\Users\giuse\AppData\Local\Temp\tmpjf4j46dq.pyomo -AMPL 	1712761475006432100	n	2	m	1	Iter	5	CPUs	0.000000e+00	f:	1.000000e+00	inf_pr:	0.000000e+00	inf_du:	2.509104e-14	STAT:	0
