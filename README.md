@@ -1,15 +1,3 @@
-First step: Create a web scraping algorithm with BeautifulSoup to built the dataframe. The infos are like area, street, price, etc... [DONE]
-Second step: Search a population dataset for every georgarfical area. Probably on ISTAT website. Try an API to search the coordinates of every building.
-Third step: The final object is having an objective function and some constrain, we need a math formula and a naturale language. 
+This project aims to analyze optimal store locations for a chosen company, exemplified by a Walmart supermarket chain but applicable to any business. The process involves various functions within the code: web scraping to identify available land, an API to obtain coordinates of selected locations, and a distance calculation function accounting for the Earth's curvature. The code offers flexibility, allowing modification of parameters to suit specific purposes. While the results aren't unique due to this adaptability, they provide practical insights. However, it's crucial to validate assumptions and results through testing and real-world data. Despite the comprehensive approach, unexpected factors may affect the practicality of outcomes. In conclusion, the combination of our assumptions and the code appears promising, but further refinement and validation are necessary for practical application.
 
-
-Some articles that talk about Walmart's strategy when entering new markets:
-
--https://www.linkedin.com/pulse/what-do-walmart-need-ensure-its-future-success-expanding-truong-dinh
-
--https://fastercapital.com/topics/walmarts-global-expansion-strategy.html
-
-
-EBITDA/store = 3.6 billion
-
-Cost of building in Lombardia = 1000€ / 2000€ mq^2
+Lorenzo Muscillo, Giuseppe Massidda
